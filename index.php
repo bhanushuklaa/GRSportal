@@ -2,6 +2,7 @@
     <head>
 <link href="css/bootstrap.css" rel="stylesheet" text="text/css"/>
 <script src="js/bootstrap.bundle.js"></script>
+        <!--Always use external css-->
 <style>
 .log-card:hover
 {
